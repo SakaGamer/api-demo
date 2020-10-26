@@ -1,1 +1,1075 @@
-
+{
+    "count": 10,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 2,
+            "brand": {
+                "id": 2,
+                "brand_logo": "https://hss-car-dealer.s3.amazonaws.com/brand/f3b09e20-ebb9-4ce2-9efc-831cf3b59f4b.png",
+                "brand_name": "Toyota"
+            },
+            "year": {
+                "id": 16,
+                "year": 2005
+            },
+            "engine_type": {
+                "id": 1,
+                "engine_type": "V4 Cylinder",
+                "description": ""
+            },
+            "transmission": {
+                "id": 2,
+                "transmission": "Automatic",
+                "description": "des"
+            },
+            "interior": {
+                "id": 1,
+                "interior_color": "CRANBERRY",
+                "description": "des"
+            },
+            "exterior": {
+                "id": 2,
+                "exterior_color": "BLACK",
+                "description": "des"
+            },
+            "gallery": [
+                {
+                    "id": 10,
+                    "name": "pruis_01.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/90/4c/904cdbe6-c8f7-40bd-9c90-724398071ad2/jtdkb20u253102620_2.jpg",
+                    "thumbnail": "/media/8febb3af-1097-41e9-8f9d-90963fa23ea3_thum.jpg",
+                    "uploaded_at": "2020-10-08T16:52:50.943679+07:00",
+                    "modified_at": "2020-10-08T16:52:50.943696+07:00"
+                },
+                {
+                    "id": 11,
+                    "name": "pruis_02.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/b8/76/b8762b8a-b0b9-4064-925b-a8896bab4d14/544c9cfbf3fb8image.jpg",
+                    "thumbnail": "/media/640b23c6-b20f-4ea9-8298-81d49b0dece7_thum.jpg",
+                    "uploaded_at": "2020-10-08T16:53:02.875369+07:00",
+                    "modified_at": "2020-10-08T16:53:02.875385+07:00"
+                },
+                {
+                    "id": 12,
+                    "name": "pruis_03.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/a1/72/a17207e1-37e2-4254-8ea5-cb7ed81eb03c/jtdkb20u450128380_1.jpg",
+                    "thumbnail": "/media/a37b0230-370e-454c-8107-734acbaf9a05_thum.jpg",
+                    "uploaded_at": "2020-10-08T16:53:14.769063+07:00",
+                    "modified_at": "2020-10-08T16:53:14.769087+07:00"
+                },
+                {
+                    "id": 13,
+                    "name": "pruis_04.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/1f/20/1f20db8b-0276-454c-ab08-b34c2f607fb0/640.jpeg",
+                    "thumbnail": "/media/a88e17ea-2d21-4fad-acec-816bc4e1f39f_thum.jpg",
+                    "uploaded_at": "2020-10-08T16:53:28.793088+07:00",
+                    "modified_at": "2020-10-08T16:53:28.793105+07:00"
+                },
+                {
+                    "id": 14,
+                    "name": "pruis_05.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/8e/94/8e94b2c0-7791-473a-ab2b-747e1a6287ce/640_4.jpeg",
+                    "thumbnail": "/media/e1465774-ecfd-418c-893b-767007021a1b_thum.jpg",
+                    "uploaded_at": "2020-10-08T16:53:38.302935+07:00",
+                    "modified_at": "2020-10-08T16:53:38.302951+07:00"
+                },
+                {
+                    "id": 15,
+                    "name": "pruis_06.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/ca/e8/cae88d7f-3f8e-4704-b911-9d97c601e1b3/640_8.jpeg",
+                    "thumbnail": "/media/d818dc94-c241-43fe-adf7-d6f184102bae_thum.jpg",
+                    "uploaded_at": "2020-10-08T16:53:50.447688+07:00",
+                    "modified_at": "2020-10-08T16:53:50.447705+07:00"
+                },
+                {
+                    "id": 16,
+                    "name": "pruis_07.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/ee/74/ee74d4fe-11b6-4638-81e4-ab2c405b5812/640_7.jpeg",
+                    "thumbnail": "/media/228f76c6-6efc-4aca-baba-9b1ab8dc9132_thum.jpg",
+                    "uploaded_at": "2020-10-08T16:54:04.732416+07:00",
+                    "modified_at": "2020-10-08T16:54:04.732432+07:00"
+                },
+                {
+                    "id": 17,
+                    "name": "pruis_08.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/a3/11/a311b625-ab27-4cbb-aac0-e2fef5caff8f/640_9.jpeg",
+                    "thumbnail": "/media/c7154d62-4ff4-4107-bf7d-c2e4b94ccb67_thum.jpg",
+                    "uploaded_at": "2020-10-08T16:54:17.047542+07:00",
+                    "modified_at": "2020-10-08T16:54:17.047558+07:00"
+                }
+            ],
+            "container": null,
+            "model": "Lexus NX200t 2015 FSport",
+            "mileage": 12000,
+            "fuel_type": "hybrid",
+            "body_type": "suv",
+            "VIN": "1HGBH41JXMN409186",
+            "major_option": "new hybrid battery , clean in side, new front mirror",
+            "status": false,
+            "date_created": "2020-10-08",
+            "date_modified": "2020-10-26",
+            "user": null,
+            "warehouse": null
+        },
+        {
+            "id": 1,
+            "brand": {
+                "id": 3,
+                "brand_logo": "https://hss-car-dealer.s3.amazonaws.com/brand/ec242925-c905-4a73-838f-5657a4a8d596.png",
+                "brand_name": "Lexus"
+            },
+            "year": {
+                "id": 33,
+                "year": 2021
+            },
+            "engine_type": {
+                "id": 1,
+                "engine_type": "V4 Cylinder",
+                "description": ""
+            },
+            "transmission": {
+                "id": 2,
+                "transmission": "Automatic",
+                "description": "des"
+            },
+            "interior": {
+                "id": 1,
+                "interior_color": "CRANBERRY",
+                "description": "des"
+            },
+            "exterior": {
+                "id": 2,
+                "exterior_color": "BLACK",
+                "description": "des"
+            },
+            "gallery": [
+                {
+                    "id": 3,
+                    "name": "lexus-nx200t-01.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/97/82/9782a5ff-723f-496a-857a-0762e18f17e1/107699053_1649267568561401_9196333867379696738_o.jpg",
+                    "thumbnail": "/media/4303113c-aa7e-4d5c-99bf-65935b748173_thum.jpg",
+                    "uploaded_at": "2020-10-08T15:25:39.556660+07:00",
+                    "modified_at": "2020-10-08T15:25:39.556677+07:00"
+                },
+                {
+                    "id": 4,
+                    "name": "lexus-nx200t-02.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/fc/8a/fc8a93d1-c692-48b1-a180-7336dddad9ff/107812563_1649267528561405_2546292233035295134_o.jpg",
+                    "thumbnail": "/media/939ae788-27a3-4849-92d7-d3ad63c079b2_thum.jpg",
+                    "uploaded_at": "2020-10-08T15:25:58.495503+07:00",
+                    "modified_at": "2020-10-08T15:25:58.495519+07:00"
+                },
+                {
+                    "id": 5,
+                    "name": "lexus-nx200t-03.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/c9/98/c998a8e7-2371-4b3d-a44c-ecad4714e8e5/108056330_1649267538561404_3993333006176325728_o.jpg",
+                    "thumbnail": "/media/777ced9a-1131-4773-9cdc-b9f16c81b4ee_thum.jpg",
+                    "uploaded_at": "2020-10-08T15:26:09.378826+07:00",
+                    "modified_at": "2020-10-08T15:26:09.378842+07:00"
+                },
+                {
+                    "id": 6,
+                    "name": "lexus-nx200t-04.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/94/29/9429ac6f-fa6a-4d3f-b397-0e63101418fd/107999332_1649267458561412_804439161713961318_o.jpg",
+                    "thumbnail": "/media/ce7fe86a-6982-4b37-8562-0cb7e0b5f0e2_thum.jpg",
+                    "uploaded_at": "2020-10-08T15:26:18.627537+07:00",
+                    "modified_at": "2020-10-08T15:26:18.627553+07:00"
+                },
+                {
+                    "id": 7,
+                    "name": "lexus-nx200t-05.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/03/07/03077ccf-0d5c-46b4-aa91-afabbed94670/107601606_1649267561894735_4179850420738808429_o.jpg",
+                    "thumbnail": "/media/5ca861fb-799d-45fc-b431-ea3665b2f340_thum.jpg",
+                    "uploaded_at": "2020-10-08T15:26:27.520029+07:00",
+                    "modified_at": "2020-10-08T15:26:27.520045+07:00"
+                },
+                {
+                    "id": 8,
+                    "name": "lexus-nx200t-06.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/f2/37/f237a715-d5ea-459d-961e-6878d3b4bae6/107734303_1649267588561399_3653398111778547334_o.jpg",
+                    "thumbnail": "/media/b98c2e66-b357-4c48-9812-d5a43a17f9fa_thum.jpg",
+                    "uploaded_at": "2020-10-08T15:26:40.496856+07:00",
+                    "modified_at": "2020-10-08T15:26:40.496871+07:00"
+                },
+                {
+                    "id": 9,
+                    "name": "lexus-nx200t-07.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/28/6d/286d0680-353f-4971-8b47-52f743835b17/107832986_1649267551894736_3359809962920998265_o.jpg",
+                    "thumbnail": "/media/ea2c8d33-622f-4972-b7d6-66bc28186663_thum.jpg",
+                    "uploaded_at": "2020-10-08T15:26:55.291700+07:00",
+                    "modified_at": "2020-10-08T15:26:55.291717+07:00"
+                },
+                {
+                    "id": 253,
+                    "name": "LexusLexus NX200t 20150.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/28/53/285346f2-a4ae-43d1-b396-448ced567499/file.jpg",
+                    "thumbnail": "/media/e79e99dd-ed42-4ebe-b582-310eac7d8e5d_thum.jpg",
+                    "uploaded_at": "2020-10-22T15:19:31.100789+07:00",
+                    "modified_at": "2020-10-22T15:19:31.100805+07:00"
+                }
+            ],
+            "container": null,
+            "model": "Lexus NX200t 2015",
+            "mileage": 10001,
+            "fuel_type": "gasoline",
+            "body_type": "suv",
+            "VIN": "1HGBH41JXMN109186",
+            "major_option": "good condition, car not hit,1 owner,no traffic accident report,auto check 90 score",
+            "status": false,
+            "date_created": "2020-10-08",
+            "date_modified": "2020-10-22",
+            "user": null,
+            "warehouse": null
+        },
+        {
+            "id": 3,
+            "brand": {
+                "id": 3,
+                "brand_logo": "https://hss-car-dealer.s3.amazonaws.com/brand/ec242925-c905-4a73-838f-5657a4a8d596.png",
+                "brand_name": "Lexus"
+            },
+            "year": {
+                "id": 13,
+                "year": 2002
+            },
+            "engine_type": {
+                "id": 2,
+                "engine_type": "V6 Cylinder",
+                "description": ""
+            },
+            "transmission": {
+                "id": 2,
+                "transmission": "Automatic",
+                "description": "des"
+            },
+            "interior": {
+                "id": 5,
+                "interior_color": "IVORY",
+                "description": "des"
+            },
+            "exterior": {
+                "id": 3,
+                "exterior_color": "GOLD",
+                "description": "des"
+            },
+            "gallery": [
+                {
+                    "id": 18,
+                    "name": "rx300_01.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/f7/a6/f7a6e6cf-afc3-4a9b-9e7a-79559c6bbb27/107879546_126087249160340_2434081690236745844_o.jpg",
+                    "thumbnail": "/media/57e2fc3a-270d-430b-88ec-032b76620c16_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:06:20.585322+07:00",
+                    "modified_at": "2020-10-08T17:06:20.585338+07:00"
+                },
+                {
+                    "id": 19,
+                    "name": "rx300_02.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/57/7c/577c29ef-6f42-4f90-b130-d1a0d983cbb8/107841166_126087169160348_4696380154744714973_o.jpg",
+                    "thumbnail": "/media/6a9f1f06-0214-40e2-bb42-57e862679c58_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:06:31.307150+07:00",
+                    "modified_at": "2020-10-08T17:06:31.307166+07:00"
+                },
+                {
+                    "id": 20,
+                    "name": "rx300_03.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/20/2d/202d38fd-c8d9-44a1-992c-018fdc5f49da/108833799_126087192493679_830051171582119897_o.jpg",
+                    "thumbnail": "/media/6270db52-9bfa-4c1e-8038-81a09f025fad_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:06:43.172562+07:00",
+                    "modified_at": "2020-10-08T17:06:43.172580+07:00"
+                },
+                {
+                    "id": 21,
+                    "name": "rx300_04.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/82/9d/829ddd15-ff86-4e78-bbcf-6518c5946e38/109423346_126087225827009_4228551030684357458_o.jpg",
+                    "thumbnail": "/media/62ffa8bd-4f25-4c46-b6c1-b88acd6e39f4_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:06:56.175599+07:00",
+                    "modified_at": "2020-10-08T17:06:56.175617+07:00"
+                },
+                {
+                    "id": 22,
+                    "name": "rx300_05.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/9b/46/9b46a5bd-c469-416c-9d17-6a431869b842/110080852_126087255827006_2352971291222486946_o.jpg",
+                    "thumbnail": "/media/59ef11fe-0058-4b50-978f-57a214285d88_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:07:06.366130+07:00",
+                    "modified_at": "2020-10-08T17:07:06.366147+07:00"
+                },
+                {
+                    "id": 23,
+                    "name": "rx300_06.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/5d/e9/5de9c32c-0d1b-48a3-bc75-798de2b14919/108134323_126087355826996_1006231215406497415_o.jpg",
+                    "thumbnail": "/media/cdee2bf0-bdc8-48c6-98d6-60a0546b0c2d_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:07:16.988726+07:00",
+                    "modified_at": "2020-10-08T17:07:16.988743+07:00"
+                },
+                {
+                    "id": 24,
+                    "name": "rx300_07.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/4a/08/4a083765-2272-44c3-9a1c-e7cc73909484/109519284_126087265827005_4428201753890047391_o.jpg",
+                    "thumbnail": "/media/3251d827-be34-4bad-b198-e3fc4db112d2_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:07:24.747153+07:00",
+                    "modified_at": "2020-10-08T17:07:24.747169+07:00"
+                },
+                {
+                    "id": 25,
+                    "name": "rx300_08.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/3e/89/3e89be42-d722-4a20-94ac-cbab4481a4d5/107988631_126087242493674_8839582062086915800_o.jpg",
+                    "thumbnail": "/media/b5b88270-caeb-4b6d-bd89-18e614cd0249_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:07:34.213163+07:00",
+                    "modified_at": "2020-10-08T17:07:34.213180+07:00"
+                },
+                {
+                    "id": 26,
+                    "name": "rx300_09.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/a2/22/a222c65d-8a2e-4aff-8fd5-55a6203525b9/108026955_126087175827014_4259407004175874975_o.jpg",
+                    "thumbnail": "/media/172bba8c-83f7-4be9-84f3-c9ea920eaf42_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:07:42.787690+07:00",
+                    "modified_at": "2020-10-08T17:07:42.787707+07:00"
+                }
+            ],
+            "container": null,
+            "model": "Lexus 300  Pong 1 base option 2003",
+            "mileage": 200000,
+            "fuel_type": "gasoline",
+            "body_type": "suv",
+            "VIN": "1HGBH41JXMN109186",
+            "major_option": "Hit back side, broken back mirror",
+            "status": false,
+            "date_created": "2020-10-08",
+            "date_modified": "2020-10-26",
+            "user": null,
+            "warehouse": null
+        },
+        {
+            "id": 4,
+            "brand": {
+                "id": 3,
+                "brand_logo": "https://hss-car-dealer.s3.amazonaws.com/brand/ec242925-c905-4a73-838f-5657a4a8d596.png",
+                "brand_name": "Lexus"
+            },
+            "year": {
+                "id": 10,
+                "year": 1999
+            },
+            "engine_type": {
+                "id": 3,
+                "engine_type": "V8 Cylinder",
+                "description": ""
+            },
+            "transmission": {
+                "id": 1,
+                "transmission": "Manual",
+                "description": "des"
+            },
+            "interior": {
+                "id": 2,
+                "interior_color": "DOVE",
+                "description": "des"
+            },
+            "exterior": {
+                "id": 3,
+                "exterior_color": "GOLD",
+                "description": "des"
+            },
+            "gallery": [
+                {
+                    "id": 27,
+                    "name": "lx470_01.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/f0/e6/f0e6ea9a-5259-4f01-b114-4c0c89df3868/115929623_128495325586199_8896627778825827786_o.jpg",
+                    "thumbnail": "/media/7a78c0b2-dbac-496a-b814-89c135d5943b_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:09:16.564419+07:00",
+                    "modified_at": "2020-10-08T17:09:16.564435+07:00"
+                },
+                {
+                    "id": 28,
+                    "name": "lx470_02.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/b1/03/b1036b11-63a3-46fd-9303-f6036568948d/115994773_128495305586201_3025877959848749057_o.jpg",
+                    "thumbnail": "/media/f8a939f1-5cdd-49c0-84f9-d4d4cb7f8dbd_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:09:25.813762+07:00",
+                    "modified_at": "2020-10-08T17:09:25.813778+07:00"
+                },
+                {
+                    "id": 29,
+                    "name": "lx470_03.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/4f/6c/4f6c376a-c868-428e-9fb8-8a35a89831ba/115960385_128495268919538_4673856008840025007_o.jpg",
+                    "thumbnail": "/media/1eb664d2-4009-44e5-85c7-9717f14cf1bb_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:09:33.843434+07:00",
+                    "modified_at": "2020-10-08T17:09:33.843450+07:00"
+                },
+                {
+                    "id": 30,
+                    "name": "lx470_04.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/1c/8f/1c8fc697-1dfb-4ea0-9a22-cb6aa5f6e002/115467135_128495262252872_339440953719904173_o.jpg",
+                    "thumbnail": "/media/ab1330a5-a18e-4f37-8988-4d3dffe2ba1b_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:09:43.565905+07:00",
+                    "modified_at": "2020-10-08T17:09:43.565922+07:00"
+                },
+                {
+                    "id": 31,
+                    "name": "lx470_05.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/47/e8/47e8563d-5a02-4c9c-b68a-d99c563c5992/115905311_128495198919545_2678541009231344209_o.jpg",
+                    "thumbnail": "/media/fc7d4c15-87b7-4ecd-9287-04a7de0778db_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:09:54.222044+07:00",
+                    "modified_at": "2020-10-08T17:09:54.222060+07:00"
+                },
+                {
+                    "id": 32,
+                    "name": "lx470_06.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/37/be/37be1178-98a7-4692-a838-9009d4885328/116039157_128495228919542_3859132138355907310_o.jpg",
+                    "thumbnail": "/media/18c8b826-3837-4bc0-8459-5d9bfa12fdfa_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:10:04.259411+07:00",
+                    "modified_at": "2020-10-08T17:10:04.259429+07:00"
+                },
+                {
+                    "id": 33,
+                    "name": "lx470_07.jpeg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/5a/b5/5ab5ad2d-0ce8-40e5-96b3-4dfa680c3875/116065390_128495188919546_6536651624451565628_o.jpg",
+                    "thumbnail": "/media/44c1f103-a449-459e-8b03-d4aec304f2a2_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:10:14.189753+07:00",
+                    "modified_at": "2020-10-08T17:10:14.189769+07:00"
+                },
+                {
+                    "id": 34,
+                    "name": "lx470_08.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/8e/f0/8ef0a573-ba3b-4e85-a4ea-2a82968c7ebf/109816249_128495175586214_7707596689802839663_o.jpg",
+                    "thumbnail": "/media/1218fe58-8124-49b6-af3b-a9a993183b6f_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:10:32.439793+07:00",
+                    "modified_at": "2020-10-08T17:10:32.439809+07:00"
+                },
+                {
+                    "id": 35,
+                    "name": "lx470_09.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/0c/7d/0c7d76b7-50c7-42cc-b2a0-ab69d238d8e1/110160409_128495182252880_3703517484219043776_o.jpg",
+                    "thumbnail": "/media/5ddb4f5c-fda1-48d9-adcf-9338b73eed6b_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:10:41.579090+07:00",
+                    "modified_at": "2020-10-08T17:10:41.579110+07:00"
+                }
+            ],
+            "container": null,
+            "model": "Lexus 470 Pong 2 base option 1999",
+            "mileage": 4000000,
+            "fuel_type": "gasoline",
+            "body_type": "suv",
+            "VIN": "1HGBH41JXMN109186",
+            "major_option": "Machine good condition",
+            "status": false,
+            "date_created": "2020-10-08",
+            "date_modified": "2020-10-26",
+            "user": null,
+            "warehouse": null
+        },
+        {
+            "id": 5,
+            "brand": {
+                "id": 2,
+                "brand_logo": "https://hss-car-dealer.s3.amazonaws.com/brand/f3b09e20-ebb9-4ce2-9efc-831cf3b59f4b.png",
+                "brand_name": "Toyota"
+            },
+            "year": {
+                "id": 19,
+                "year": 2008
+            },
+            "engine_type": {
+                "id": 1,
+                "engine_type": "V4 Cylinder",
+                "description": ""
+            },
+            "transmission": {
+                "id": 2,
+                "transmission": "Automatic",
+                "description": "des"
+            },
+            "interior": {
+                "id": 8,
+                "interior_color": "SAND",
+                "description": "des"
+            },
+            "exterior": {
+                "id": 1,
+                "exterior_color": "WHITE",
+                "description": "des"
+            },
+            "gallery": [
+                {
+                    "id": 36,
+                    "name": "camary_01.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/34/90/3490ce7b-05ce-4df3-8f7f-2aead12ae978/118526252_149805630121835_4022102874420076104_o.jpg",
+                    "thumbnail": "/media/2eb37435-3455-4514-85db-df100cc38ef1_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:29:23.328059+07:00",
+                    "modified_at": "2020-10-08T17:29:23.328085+07:00"
+                },
+                {
+                    "id": 37,
+                    "name": "camary_01.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/e1/ec/e1ecf23b-7b01-4867-9eb9-43bae17e4b80/118708032_149805596788505_8205761800135285076_o.jpg",
+                    "thumbnail": "/media/8e6ccfbc-142a-4d1b-bffd-456df378bfad_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:29:31.210298+07:00",
+                    "modified_at": "2020-10-08T17:29:31.210315+07:00"
+                },
+                {
+                    "id": 38,
+                    "name": "camary_03.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/d0/07/d007ca58-01ad-41d5-8352-19808249bf54/118381687_149805513455180_5283166458799156491_n.jpg",
+                    "thumbnail": "/media/a04db6c0-eeb2-46ec-a5e8-4177230e7d43_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:29:44.882712+07:00",
+                    "modified_at": "2020-10-08T17:29:44.882729+07:00"
+                },
+                {
+                    "id": 39,
+                    "name": "camary_04.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/53/cb/53cb4dc5-7766-4910-b3f8-552c9d6e005d/118700057_149805553455176_3019558934500837390_n.jpg",
+                    "thumbnail": "/media/d1aee42b-a23a-400d-afa1-dc5c78a954a5_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:29:56.185944+07:00",
+                    "modified_at": "2020-10-08T17:29:56.185961+07:00"
+                },
+                {
+                    "id": 40,
+                    "name": "camary_05.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/3a/fa/3afaffef-b1d0-47af-8fa3-6967bb4b801f/118463987_149805643455167_276829101548588877_o.jpg",
+                    "thumbnail": "/media/39be6789-9752-4b3f-9b0d-9c4fc2f4c10c_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:30:06.301263+07:00",
+                    "modified_at": "2020-10-08T17:30:06.301280+07:00"
+                },
+                {
+                    "id": 41,
+                    "name": "camary_06.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/36/38/3638d039-09dd-416e-8ef4-9a7f83f229be/118484342_149805586788506_2681296565636371109_o.jpg",
+                    "thumbnail": "/media/a74a5d72-a97e-4d63-a2eb-307f91643ae8_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:30:22.015553+07:00",
+                    "modified_at": "2020-10-08T17:30:22.015569+07:00"
+                },
+                {
+                    "id": 42,
+                    "name": "camary_06.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/00/7b/007b2412-a689-4420-a0f9-2845f6a38023/118605702_149805623455169_5052846156873506911_o.jpg",
+                    "thumbnail": "/media/85c6fa82-9953-44c5-8e58-878fa85556bb_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:30:29.212213+07:00",
+                    "modified_at": "2020-10-08T17:30:29.212229+07:00"
+                },
+                {
+                    "id": 43,
+                    "name": "camary_07.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/8a/6c/8a6c61b4-4976-4a02-9282-5ea035d8bba1/118472301_149805533455178_8357916756165258552_o.jpg",
+                    "thumbnail": "/media/1f816639-2cb9-43a8-a61e-7451af7e87d5_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:30:42.610851+07:00",
+                    "modified_at": "2020-10-08T17:30:42.610870+07:00"
+                },
+                {
+                    "id": 44,
+                    "name": "camary_08.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/0c/00/0c003c76-b061-4379-8265-3918f1ed277f/118360757_149805580121840_7627635129296265160_o.jpg",
+                    "thumbnail": "/media/8f760d90-6df4-4637-b253-a4baff66ef3b_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:30:57.024716+07:00",
+                    "modified_at": "2020-10-08T17:30:57.024733+07:00"
+                }
+            ],
+            "container": null,
+            "model": "Camary Hybrid Half Full 2008",
+            "mileage": 30000,
+            "fuel_type": "hybrid",
+            "body_type": "sedan",
+            "VIN": "1HGBH41JXMN409186",
+            "major_option": "1 traffic accident report damage driver door",
+            "status": false,
+            "date_created": "2020-10-08",
+            "date_modified": "2020-10-26",
+            "user": null,
+            "warehouse": null
+        },
+        {
+            "id": 6,
+            "brand": {
+                "id": 4,
+                "brand_logo": "https://hss-car-dealer.s3.amazonaws.com/brand/79d09377-6c8f-417a-bdd1-26e32b317430.png",
+                "brand_name": "Audi"
+            },
+            "year": {
+                "id": 21,
+                "year": 2010
+            },
+            "engine_type": {
+                "id": 2,
+                "engine_type": "V6 Cylinder",
+                "description": ""
+            },
+            "transmission": {
+                "id": 2,
+                "transmission": "Automatic",
+                "description": "des"
+            },
+            "interior": {
+                "id": 2,
+                "interior_color": "DOVE",
+                "description": "des"
+            },
+            "exterior": {
+                "id": 1,
+                "exterior_color": "WHITE",
+                "description": "des"
+            },
+            "gallery": [
+                {
+                    "id": 45,
+                    "name": "audi_01.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/cc/34/cc34942f-c7a5-4c9d-95ef-89e678bbae56/118798460_3210750735706633_4868749798072173480_o.jpg",
+                    "thumbnail": "/media/9b82034a-47f1-4304-aa7d-bd66f583d459_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:37:59.852757+07:00",
+                    "modified_at": "2020-10-08T17:37:59.852774+07:00"
+                },
+                {
+                    "id": 46,
+                    "name": "audi_02.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/4d/34/4d344125-848f-4a0f-aa14-bbf859bd4bc3/118768035_3210751262373247_7159606338250936630_o.jpg",
+                    "thumbnail": "/media/2c1d89aa-207a-47c0-a68e-37ed0ded677b_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:38:09.656504+07:00",
+                    "modified_at": "2020-10-08T17:38:09.656521+07:00"
+                },
+                {
+                    "id": 47,
+                    "name": "audi_03.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/dd/9a/dd9ae205-54e6-4e9a-9273-ba493ceb9453/118616643_3210750492373324_5310568357403138761_o.jpg",
+                    "thumbnail": "/media/4545d50c-d189-40a3-98a8-13b1238a7bbc_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:38:18.647320+07:00",
+                    "modified_at": "2020-10-08T17:38:18.647337+07:00"
+                },
+                {
+                    "id": 48,
+                    "name": "audi_04.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/61/f7/61f7473c-f04c-43a6-b220-85c3a1e969a6/118882305_3210751872373186_8266110749140926388_o.jpg",
+                    "thumbnail": "/media/7ce511b6-8080-4c0f-9311-1bec524bb384_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:38:28.178186+07:00",
+                    "modified_at": "2020-10-08T17:38:28.178202+07:00"
+                },
+                {
+                    "id": 49,
+                    "name": "audi_05.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/6f/01/6f014488-6bf3-4691-b360-23815e7264b3/118809115_3210750179040022_3691297486054886327_o.jpg",
+                    "thumbnail": "/media/cd8e397c-5e5b-4dfe-bcc0-80a184a75e04_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:38:38.835554+07:00",
+                    "modified_at": "2020-10-08T17:38:38.835575+07:00"
+                },
+                {
+                    "id": 50,
+                    "name": "audi_06.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/ef/32/ef325ceb-98c2-458c-aa08-f5eb287348da/118793440_3210751725706534_5051571604715614516_o.jpg",
+                    "thumbnail": "/media/5922edd9-75e4-4439-8321-abf96ea0efc5_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:38:47.497903+07:00",
+                    "modified_at": "2020-10-08T17:38:47.497920+07:00"
+                },
+                {
+                    "id": 51,
+                    "name": "audi_07.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/10/bf/10bf4054-3664-4c41-bcfa-5aac0400b705/118678925_3210751695706537_7355768897193110285_o.jpg",
+                    "thumbnail": "/media/bec537f0-c191-465e-ac62-a37de3cbd45d_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:38:57.694727+07:00",
+                    "modified_at": "2020-10-08T17:38:57.694744+07:00"
+                },
+                {
+                    "id": 52,
+                    "name": "audi_08.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/89/52/8952eefa-b8ac-4a2b-b194-b46c13547a5a/118780807_3210751185706588_1814151030522429499_o.jpg",
+                    "thumbnail": "/media/e68c7eef-7fd3-41f8-ae38-ea7cd637d0cb_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:39:06.070273+07:00",
+                    "modified_at": "2020-10-08T17:39:06.070290+07:00"
+                },
+                {
+                    "id": 53,
+                    "name": "audi_09.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/53/78/53784eaf-c2fb-401d-b007-737d4aaae6cb/118848778_3210750162373357_2930522512196091020_o.jpg",
+                    "thumbnail": "/media/cb071463-396e-4c13-9e09-61a624cebc7a_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:39:14.470974+07:00",
+                    "modified_at": "2020-10-08T17:39:14.470991+07:00"
+                }
+            ],
+            "container": null,
+            "model": "2010 Audi Q7 S-Sline",
+            "mileage": 3000,
+            "fuel_type": "gasoline",
+            "body_type": "suv",
+            "VIN": "1HGBH41JXMN409186",
+            "major_option": "new 98% good condition",
+            "status": false,
+            "date_created": "2020-10-08",
+            "date_modified": "2020-10-26",
+            "user": null,
+            "warehouse": null
+        },
+        {
+            "id": 7,
+            "brand": {
+                "id": 5,
+                "brand_logo": "https://hss-car-dealer.s3.amazonaws.com/brand/a5a3b06c-37f7-4758-84c9-9f93f7ef501a.png",
+                "brand_name": "BMW"
+            },
+            "year": {
+                "id": 31,
+                "year": 2020
+            },
+            "engine_type": {
+                "id": 3,
+                "engine_type": "V8 Cylinder",
+                "description": ""
+            },
+            "transmission": {
+                "id": 2,
+                "transmission": "Automatic",
+                "description": "des"
+            },
+            "interior": {
+                "id": 6,
+                "interior_color": "OATMEAL",
+                "description": "des"
+            },
+            "exterior": {
+                "id": 5,
+                "exterior_color": "BLUE",
+                "description": null
+            },
+            "gallery": [
+                {
+                    "id": 54,
+                    "name": "bmw_01.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/a2/d1/a2d10583-1406-4f02-94fc-248f8a7ff4c8/120647560_3437369036354277_8541043612424009265_o.jpg",
+                    "thumbnail": "/media/b363e228-50ed-41bc-8457-dad578f40ba6_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:44:00.199604+07:00",
+                    "modified_at": "2020-10-08T17:44:00.199620+07:00"
+                },
+                {
+                    "id": 55,
+                    "name": "bmw_02.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/cf/92/cf927c82-999b-49cc-9d9f-1165e2a83474/120795513_3437369083020939_1009768118702816054_o.jpg",
+                    "thumbnail": "/media/8405a84a-c84b-4350-9fd2-8be52bf0791b_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:44:11.406555+07:00",
+                    "modified_at": "2020-10-08T17:44:11.406575+07:00"
+                },
+                {
+                    "id": 56,
+                    "name": "bmw_03.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/1c/ce/1cce371c-9ec6-4301-8084-32494027b81d/120777873_3437369073020940_8773476337005609251_o.jpg",
+                    "thumbnail": "/media/f458d898-bfa0-42a6-9f5a-b3f2ab316df4_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:44:20.242767+07:00",
+                    "modified_at": "2020-10-08T17:44:20.242784+07:00"
+                },
+                {
+                    "id": 57,
+                    "name": "bmw_04.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/1f/de/1fde557c-2bc2-4a29-9ad0-882fdf042943/120781599_3437369183020929_1186621385824287202_o.jpg",
+                    "thumbnail": "/media/3ad4dd29-afac-47c8-8731-426b4423fae3_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:44:30.217951+07:00",
+                    "modified_at": "2020-10-08T17:44:30.217967+07:00"
+                },
+                {
+                    "id": 58,
+                    "name": "bmw_05.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/30/4b/304b003f-54bf-4f5f-9866-1b0a8acb3f82/107692415_3198394110251772_7868703605148476537_o.jpg",
+                    "thumbnail": "/media/d55cbf2e-6aa5-4b6d-a6ee-0bb38984e82d_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:45:13.064856+07:00",
+                    "modified_at": "2020-10-08T17:45:13.064873+07:00"
+                }
+            ],
+            "container": null,
+            "model": "BMW X6 2020",
+            "mileage": 0,
+            "fuel_type": "gasoline",
+            "body_type": "suv",
+            "VIN": "1HGBH41JXMN109186",
+            "major_option": "new car  100%",
+            "status": false,
+            "date_created": "2020-10-08",
+            "date_modified": "2020-10-26",
+            "user": null,
+            "warehouse": null
+        },
+        {
+            "id": 8,
+            "brand": {
+                "id": 1,
+                "brand_logo": "https://hss-car-dealer.s3.amazonaws.com/brand/0b8959d7-14a5-4025-b53d-3ed30e8b3dca.png",
+                "brand_name": "Tela"
+            },
+            "year": {
+                "id": 27,
+                "year": 2016
+            },
+            "engine_type": {
+                "id": 4,
+                "engine_type": "V12 Cylinder",
+                "description": ""
+            },
+            "transmission": {
+                "id": 2,
+                "transmission": "Automatic",
+                "description": "des"
+            },
+            "interior": {
+                "id": 2,
+                "interior_color": "DOVE",
+                "description": "des"
+            },
+            "exterior": {
+                "id": 1,
+                "exterior_color": "WHITE",
+                "description": "des"
+            },
+            "gallery": [
+                {
+                    "id": 59,
+                    "name": "tela_01.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/5c/1e/5c1e0adc-7203-40bd-9ad5-d34a856e8dc2/12032684_1018107394908406_3273203565012839233_o.jpg",
+                    "thumbnail": "/media/073b026a-2eec-4651-b5a7-25ec641b117b_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:49:59.518853+07:00",
+                    "modified_at": "2020-10-08T17:49:59.518873+07:00"
+                },
+                {
+                    "id": 60,
+                    "name": "tela_02.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/4d/78/4d781b93-49f4-4213-95c0-cd7a800eb42c/12039002_1018107381575074_973930471313265581_o.jpg",
+                    "thumbnail": "/media/52c31dc1-8996-4d1b-aea9-0dfe2e3e4999_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:50:07.558820+07:00",
+                    "modified_at": "2020-10-08T17:50:07.558843+07:00"
+                },
+                {
+                    "id": 61,
+                    "name": "tela_03.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/09/e0/09e0fcec-ca2a-4fde-9adc-dbc24881a95d/12022501_1018107368241742_1123632726060321720_o.jpg",
+                    "thumbnail": "/media/69a2a920-7235-4ef4-891c-71459e6093f7_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:50:16.990662+07:00",
+                    "modified_at": "2020-10-08T17:50:16.990681+07:00"
+                },
+                {
+                    "id": 62,
+                    "name": "tela_04.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/4a/ed/4aed38d6-ae85-42c6-ba19-abeeda92998c/12022490_1018107398241739_8483801925763481447_o.jpg",
+                    "thumbnail": "/media/1adefe39-5daa-4d67-aea8-1b416bbb844c_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:50:26.837013+07:00",
+                    "modified_at": "2020-10-08T17:50:26.837029+07:00"
+                },
+                {
+                    "id": 63,
+                    "name": "tela_05.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/25/af/25afc33f-e8b6-4f60-80f0-3cc2b291fd78/12038749_1018107341575078_6533053830612464503_o.jpg",
+                    "thumbnail": "/media/037c887f-ca34-4a00-910f-a1fb2b3cdafa_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:50:38.113692+07:00",
+                    "modified_at": "2020-10-08T17:50:38.113709+07:00"
+                },
+                {
+                    "id": 64,
+                    "name": "tela_06.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/e0/00/e000c1ca-431c-4abb-9e0a-b1ebf9c4dfab/12068940_1018107364908409_6423681637717880389_o.jpg",
+                    "thumbnail": "/media/d6b9a502-ec02-4e62-a547-81220f1f9112_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:50:48.571029+07:00",
+                    "modified_at": "2020-10-08T17:50:48.571045+07:00"
+                }
+            ],
+            "container": null,
+            "model": "Tela Model x 2016",
+            "mileage": 34256,
+            "fuel_type": "hybrid",
+            "body_type": "suv",
+            "VIN": "1HGBH41JXMN109186",
+            "major_option": "electric car",
+            "status": false,
+            "date_created": "2020-10-08",
+            "date_modified": "2020-10-26",
+            "user": null,
+            "warehouse": null
+        },
+        {
+            "id": 9,
+            "brand": {
+                "id": 6,
+                "brand_logo": "https://hss-car-dealer.s3.amazonaws.com/brand/be5d9845-d84f-4409-a167-41978828f4d0.png",
+                "brand_name": "Ford"
+            },
+            "year": {
+                "id": 31,
+                "year": 2020
+            },
+            "engine_type": {
+                "id": 2,
+                "engine_type": "V6 Cylinder",
+                "description": ""
+            },
+            "transmission": {
+                "id": 2,
+                "transmission": "Automatic",
+                "description": "des"
+            },
+            "interior": {
+                "id": 7,
+                "interior_color": "SABLE",
+                "description": "des"
+            },
+            "exterior": {
+                "id": 5,
+                "exterior_color": "BLUE",
+                "description": null
+            },
+            "gallery": [
+                {
+                    "id": 65,
+                    "name": "ford_01.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/3a/cd/3acd2a20-4a90-422c-91f2-073c6ae8c16e/120601312_941845886303150_1631215622817469076_n.jpg",
+                    "thumbnail": "/media/19e7be0c-015a-4148-a1ba-1430b535b641_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:59:26.274030+07:00",
+                    "modified_at": "2020-10-08T17:59:26.274046+07:00"
+                },
+                {
+                    "id": 66,
+                    "name": "ford_02.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/68/68/68684b4d-2898-49b7-a145-4f26f5c9d20e/120620246_941845859636486_8613370975857015699_n.jpg",
+                    "thumbnail": "/media/8789f08e-0218-4959-a01b-7cb62aed0777_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:59:37.017886+07:00",
+                    "modified_at": "2020-10-08T17:59:37.017905+07:00"
+                },
+                {
+                    "id": 67,
+                    "name": "ford_03.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/c3/b5/c3b50be6-ab76-4244-824e-723f2b176b05/120702180_941845879636484_9147459602966127325_n.jpg",
+                    "thumbnail": "/media/0338d2aa-795a-4758-b4fe-8a70ec8ce032_thum.jpg",
+                    "uploaded_at": "2020-10-08T17:59:48.960331+07:00",
+                    "modified_at": "2020-10-08T17:59:48.960347+07:00"
+                },
+                {
+                    "id": 68,
+                    "name": "ford_04.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/0f/71/0f71ef31-bbc6-4a4d-8465-ac39cee02ddb/120604225_941845919636480_2801379431271616798_n.jpg",
+                    "thumbnail": "/media/98038d0d-1123-42f9-a7d8-1029a9ab9758_thum.jpg",
+                    "uploaded_at": "2020-10-08T18:00:02.137918+07:00",
+                    "modified_at": "2020-10-08T18:00:02.137937+07:00"
+                },
+                {
+                    "id": 69,
+                    "name": "ford_05.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/38/a8/38a8abe4-a61d-48cb-a09e-9f263b64d859/120654622_941870519634020_7597441817536298940_n.jpg",
+                    "thumbnail": "/media/4449487d-0a0c-4ef6-bb47-e43cb9c123f2_thum.jpg",
+                    "uploaded_at": "2020-10-08T18:00:17.033879+07:00",
+                    "modified_at": "2020-10-08T18:00:17.033899+07:00"
+                },
+                {
+                    "id": 70,
+                    "name": "ford_06.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/c3/99/c399b5ff-f3e9-439a-9faf-485ee4b3ca0d/120704531_941870599634012_6887013946392742918_n.jpg",
+                    "thumbnail": "/media/6cfee205-794e-450b-b4fb-23990efad77e_thum.jpg",
+                    "uploaded_at": "2020-10-08T18:00:25.745982+07:00",
+                    "modified_at": "2020-10-08T18:00:25.746002+07:00"
+                },
+                {
+                    "id": 71,
+                    "name": "ford_07.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/84/cb/84cbe507-9bc6-49b5-8706-a1eeed04c7ab/120622212_941870639634008_5056657927957386906_n.jpg",
+                    "thumbnail": "/media/e9eda1e0-2b6b-4c00-912e-bf0b7711981b_thum.jpg",
+                    "uploaded_at": "2020-10-08T18:00:38.751232+07:00",
+                    "modified_at": "2020-10-08T18:00:38.751252+07:00"
+                }
+            ],
+            "container": null,
+            "model": "Ford Raptor 2020",
+            "mileage": 0,
+            "fuel_type": "gasoline",
+            "body_type": "pick up",
+            "VIN": "1HGBH41JXMN109186",
+            "major_option": "new car 100%",
+            "status": false,
+            "date_created": "2020-10-08",
+            "date_modified": "2020-10-26",
+            "user": null,
+            "warehouse": null
+        },
+        {
+            "id": 10,
+            "brand": {
+                "id": 6,
+                "brand_logo": "https://hss-car-dealer.s3.amazonaws.com/brand/be5d9845-d84f-4409-a167-41978828f4d0.png",
+                "brand_name": "Ford"
+            },
+            "year": {
+                "id": 31,
+                "year": 2020
+            },
+            "engine_type": {
+                "id": 1,
+                "engine_type": "V4 Cylinder",
+                "description": ""
+            },
+            "transmission": {
+                "id": 2,
+                "transmission": "Automatic",
+                "description": "des"
+            },
+            "interior": {
+                "id": 4,
+                "interior_color": "HERITAGE TAN",
+                "description": "des"
+            },
+            "exterior": {
+                "id": 1,
+                "exterior_color": "WHITE",
+                "description": "des"
+            },
+            "gallery": [
+                {
+                    "id": 72,
+                    "name": "ford_eco_01.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/a3/23/a323e497-0911-49d4-ab8c-1d8f18058860/118037727_910315772789495_2882330174289544952_n.jpg",
+                    "thumbnail": "/media/e58470dd-e2a6-445b-85d8-40a2390ea284_thum.jpg",
+                    "uploaded_at": "2020-10-08T18:03:42.789302+07:00",
+                    "modified_at": "2020-10-08T18:03:42.789318+07:00"
+                },
+                {
+                    "id": 73,
+                    "name": "ford_eco_02.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/63/f8/63f8c839-6ebb-4672-b2ed-8b10a567702b/118021859_910315809456158_4211824004097177467_n.jpg",
+                    "thumbnail": "/media/7bf9e0ee-ae43-4478-93a2-c6240e449af2_thum.jpg",
+                    "uploaded_at": "2020-10-08T18:04:01.878345+07:00",
+                    "modified_at": "2020-10-08T18:04:01.878362+07:00"
+                },
+                {
+                    "id": 74,
+                    "name": "ford_eco_03.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/b2/bf/b2bf6008-7918-49ae-b8f2-ace865f27c7e/118341515_910315856122820_8932687436125262432_n.jpg",
+                    "thumbnail": "/media/8fa1d1f8-0654-423c-ace7-667373dd3f08_thum.jpg",
+                    "uploaded_at": "2020-10-08T18:04:25.160665+07:00",
+                    "modified_at": "2020-10-08T18:04:25.160682+07:00"
+                },
+                {
+                    "id": 75,
+                    "name": "ford_eco_04.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/16/44/1644fac5-e876-467b-8112-5a1c1cca3c46/118286326_910315749456164_75719759843370445_n.jpg",
+                    "thumbnail": "/media/72d1b5ae-71d0-4431-ba4b-04ca294109e8_thum.jpg",
+                    "uploaded_at": "2020-10-08T18:04:36.489519+07:00",
+                    "modified_at": "2020-10-08T18:04:36.489535+07:00"
+                },
+                {
+                    "id": 76,
+                    "name": "ford_eco_05.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/a8/82/a882ec68-0cf8-424d-8f09-57b9c0d7abf0/118087526_910315819456157_2619983746145124068_n.jpg",
+                    "thumbnail": "/media/bcc575ed-9db8-46ef-813f-b20ee2c454f6_thum.jpg",
+                    "uploaded_at": "2020-10-08T18:04:46.842124+07:00",
+                    "modified_at": "2020-10-08T18:04:46.842141+07:00"
+                },
+                {
+                    "id": 77,
+                    "name": "ford_eco_06.jpg",
+                    "file": "https://hss-car-dealer.s3.amazonaws.com/filer_public/cc/16/cc16ad37-ad64-493a-a2ef-0750a4cd18ed/118361800_910315782789494_1387375062756157055_n.jpg",
+                    "thumbnail": "/media/872e2f9d-8c22-4eb3-86bc-1f40ff2e8528_thum.jpg",
+                    "uploaded_at": "2020-10-08T18:04:56.956995+07:00",
+                    "modified_at": "2020-10-08T18:04:56.957012+07:00"
+                }
+            ],
+            "container": null,
+            "model": "Ford Eco Sport 2020",
+            "mileage": 0,
+            "fuel_type": "gasoline",
+            "body_type": "suv",
+            "VIN": "1HGBH41JXMN109186",
+            "major_option": "new car 100%",
+            "status": false,
+            "date_created": "2020-10-08",
+            "date_modified": "2020-10-26",
+            "user": null,
+            "warehouse": null
+        }
+    ]
+}
